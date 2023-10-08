@@ -1,8 +1,5 @@
 # AbhishekASLK
 
-![Profile Image](./banner.jpg)
-
-
 ## Hi there! 👋
 
 I'm Your Abhishek, and welcome to my GitHub profile! 
