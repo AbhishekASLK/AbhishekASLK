@@ -3,7 +3,7 @@
 
 I am a passionate computer engineering student with a deep fascination for technology and its ever-evolving landscape. From a young age, I was drawn to the world of computers, and that curiosity has driven me to pursue a career in this dynamic field.
 
-![](https://octodex.github.com/images/NUX_Octodex.gif)
+![](./octocat-1704092324902.png)
 
 
 ## 🔧 Technologies & Tools
